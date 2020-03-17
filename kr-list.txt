@@ -50,3 +50,6 @@ reco.netinsight.co.kr
 ad.xc.netinsight.co.kr	
 saluton.cizion.com	
 reco.netinsight.co.kr	
+wwwads.seoul.co.kr
+z.o00.kr	
+api.dable.io
