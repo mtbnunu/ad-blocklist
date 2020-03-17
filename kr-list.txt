@@ -36,7 +36,6 @@ tracker.adbinead.com
 idm.skplanet.com	
 biz.chosun.com
 adsvr.kmib.co.kr	
-scontent.fcxh2-1.fna.fbcdn.net	
 ad.kmib.co.kr	
 nscreen.neoebiz.co.kr
 nsclick.neoebiz.co.kr
