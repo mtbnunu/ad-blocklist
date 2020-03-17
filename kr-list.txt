@@ -20,3 +20,17 @@ kn.acrosspf.com
 ad.phaserep.com	
 kn.acrosspf.com	
 cdn.interworksmedia.co.kr
+ds.interworksmedia.co.kr	
+interface.interworksmedia.co.kr	
+adsvc2.wisenut.co.kr	
+tm.interworksmedia.co.kr	
+adreg.wisenut.co.kr	
+image.wisenut.co.kr	
+adimg.wisenut.co.kr	
+yellow.contentsfeed.com	
+adtg.widerplanet.com	
+cdn-aitg.widerplanet.com	
+tracker.adbinead.com	
+ad.adinc.kr	
+tracker.adbinead.com	
+idm.skplanet.com	
