@@ -52,3 +52,4 @@ reco.netinsight.co.kr
 wwwads.seoul.co.kr
 z.o00.kr	
 api.dable.io
+cdn.megadata.co.kr	
