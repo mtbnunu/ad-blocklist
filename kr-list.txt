@@ -34,7 +34,6 @@ tracker.adbinead.com
 ad.adinc.kr	
 tracker.adbinead.com	
 idm.skplanet.com	
-biz.chosun.com
 adsvr.kmib.co.kr	
 ad.kmib.co.kr	
 nscreen.neoebiz.co.kr
