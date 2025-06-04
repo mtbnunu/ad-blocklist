@@ -78,6 +78,9 @@ advimg.ad-mapps.com
 ads.acrosspf.com
 
 *.coupangcdn.com
+ad.planbplus.co.kr
+img.planbplus.co.kr
+
 
 www.mediacategory.com
 ad.mediamixer.co.kr
