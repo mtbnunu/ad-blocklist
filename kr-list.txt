@@ -76,6 +76,7 @@ viewformation.com
 ads-partners.coupang.com
 advimg.ad-mapps.com
 ads.acrosspf.com
+adf.acrosspf.com
 
 *.coupangcdn.com
 ad.planbplus.co.kr
@@ -103,3 +104,5 @@ ae.mmstat.com
 assets.aliexpress-media.com
 ae-pic-a1.aliexpress-media.com
 s.click.aliexpress.com
+
+searchad-phinf.pstatic.net
