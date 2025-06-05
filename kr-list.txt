@@ -85,7 +85,6 @@ img.planbplus.co.kr
 
 www.mediacategory.com
 ad.mediamixer.co.kr
-ssl.pstatic.net
 bidder.criteo.com
 static.criteo.net
 gum.criteo.com
