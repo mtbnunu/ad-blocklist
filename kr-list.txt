@@ -63,7 +63,7 @@ www.googletagservices.com
 static.criteo.net
 7217931e305f663b1c2b76eca34a4bee.safeframe.googlesyndication.com
 b8b03aabd55412ea6dd7e7a74ed31f47.safeframe.googlesyndication.com
-ak-cdn.placelocal.com/
+ak-cdn.placelocal.com
 tracking.campaign-tracking-service.placelocal.com
 ad.doubleclick.net
 creative.placelocal.com
